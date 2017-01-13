@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 navname: home
+permalink: /
 ---
 
 # Software Foundations of Security and Privacy
