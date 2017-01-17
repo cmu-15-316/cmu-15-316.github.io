@@ -58,7 +58,7 @@ Students will learn the principles behind designing secure systems by constructi
 
 **Exams**: There will be two exams, a midterm and final. Tentatively, the midterm is scheduled for October 20.
 
-**Textbook**: There are no official textbooks for the course. Unofficial textbooks TBD.
+**Textbook**: There are no official textbooks for the course. Unofficial textbooks are _Secure Coding: Principles and Practices_ (Graff and van Wyk), _The Tangled Web_ (Zalewski), and _Security Engineering_ (Anderson).
 
 **Discussion**: We will use Piazza by default for offline discussions. If you do not see the course page in Piazza, contact the course staff.
 
