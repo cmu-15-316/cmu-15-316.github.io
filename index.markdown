@@ -51,7 +51,7 @@ Students will learn the principles behind designing secure systems by constructi
 
 **Stay in touch**:
 
-*   (Piazza page)[https://piazza.com/class#spring2017/15316]
+*   [Piazza page](https://piazza.com/class#spring2017/15316)
 *   Course staff mailing list: 15316-spring17-staff [at] cs
 
 **Assignments**: Tentatively, there will be 8 assignments. Students will have approximately two weeks to complete each assignment, although this will vary depending on how much work is required to complete the assignment.
