@@ -47,7 +47,7 @@ Students will learn the principles behind designing secure systems by constructi
 *   Location: TBD
 *   Email: syeom@cs
 
-**Course staff email list**: 15316-spring17-staff [at] cs
+**Course staff email list**: 15316-spring17-staff@cs
 
 **Lectures**: TuTh 3-4:20pm in WEH 5415.
 
