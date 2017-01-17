@@ -47,16 +47,13 @@ Students will learn the principles behind designing secure systems by constructi
 *   Location: TBD
 *   Email: syeom@cs
 
+**Course staff email list**: 15316-spring17-staff [at] cs
+
 **Lectures**: TuTh 3-4:20pm in WEH 5415.
 
-**Stay in touch**:
+**Assignments**: There will be 8 assignments. Students will have approximately two weeks to complete each assignment. See the schedule for assignment dates.
 
-*   [Piazza page](https://piazza.com/class#spring2017/15316)
-*   Course staff mailing list: 15316-spring17-staff [at] cs
-
-**Assignments**: Tentatively, there will be 8 assignments. Students will have approximately two weeks to complete each assignment, although this will vary depending on how much work is required to complete the assignment.
-
-**Exams**: There will be two exams, a midterm and final. Tentatively, the midterm is scheduled for October 20.
+**Exams**: There will be two exams, a midterm and final.
 
 **Textbook**: There are no official textbooks for the course. Unofficial textbooks are _Secure Coding: Principles and Practices_ (Graff and van Wyk), _The Tangled Web_ (Zalewski), and _Security Engineering_ (Anderson).
 
