@@ -49,6 +49,10 @@ Students will learn the principles behind designing secure systems by constructi
 
 **Lectures**: TuTh 3-4:20pm in WEH 5415.
 
+**Stay in touch**:
+
+*   (Piazza)[https://piazza.com/class#spring2017/15316]
+*   Course staff mailing list: 15316-spring17-staff [at] cs
 **Assignments**: Tentatively, there will be 8 assignments. Students will have approximately two weeks to complete each assignment, although this will vary depending on how much work is required to complete the assignment.
 
 **Exams**: There will be two exams, a midterm and final. Tentatively, the midterm is scheduled for October 20.
