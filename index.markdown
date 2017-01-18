@@ -43,8 +43,8 @@ Students will learn the principles behind designing secure systems by constructi
 
 **TA**: Sam Yeom
 
-*   Office Hours: TBD
-*   Location: TBD
+*   Office Hours: Mondays 3-5pm
+*   Location: varies per week--see Piazza
 *   Email: syeom@cs
 
 **Course staff email list**: 15316-spring17-staff@cs
