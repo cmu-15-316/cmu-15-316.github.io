@@ -20,4 +20,4 @@ permalink: /ocaml/
 
 ## Practical OCaml
 *   [Debugging Tools](https://caml.inria.fr/pub/docs/oreilly-book/html/book-ora097.html) - description of how to use trace mechanism and ocamldebug for step-by-step execution with breakpoints
-*   Effective ML talks ([part 1](https://www.youtube.com/watch?v=4l16sYRpfL8) and [part 2](https://www.youtube.com/watch?v=tXtztf3GNTo2)] - by Yaron Minksy in CS51 at Harvard
+*   Effective ML talks ([part 1](https://www.youtube.com/watch?v=4l16sYRpfL8) and [part 2](https://www.youtube.com/watch?v=tXtztf3GNTo2)) - by Yaron Minksy in CS51 at Harvard
