@@ -7,6 +7,8 @@ permalink: /readings/
 
 # Readings
 
+Optional supplementary readings for personal enrichment.
+
 ## Safety and Reference Monitors
 *   [Enforceable Security Policies](https://www.cs.cornell.edu/fbs/publications/EnfSecPols.pdf), Fred Schneider.
 *   [Recognizing safety and liveness](https://www.cs.cornell.edu/fbs/publications/RecSafeLive.pdf), Bowen Alpern and Fred B. Schneider.
