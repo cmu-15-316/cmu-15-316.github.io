@@ -19,3 +19,8 @@ Optional supplementary readings for personal enrichment.
 ## Authentication, Identity, and Trust
 *   [This World of Ours](https://www.usenix.org/system/files/1401_08-12_mickens.pdf), James Mickens.
 *   [Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf), Ken Thompson.
+
+## Information Flow
+*   [Information Flow Control for Standard OS Abstractions](https://pdos.csail.mit.edu/papers/flume-sosp07.pdf), Maxwell Krohn, Alexander Yip, Micah Brodsky, Natan Cliffer, M. Frans Kaashoek, Eddie Kohler, Robert Morris.
+*   [A Decentralized Model for Information Flow Control](http://www.cs.cornell.edu/andru/papers/iflow-sosp97/paper.html), Andrew C. Myers and Barbara Liskov.
+*   [Practical Information Flow for Web Security](http://queue.acm.org/detail.cfm?id=3005356), Jean Yang.
