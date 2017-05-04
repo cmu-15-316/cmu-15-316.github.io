@@ -24,3 +24,8 @@ Optional supplementary readings for personal enrichment.
 *   [Information Flow Control for Standard OS Abstractions](https://pdos.csail.mit.edu/papers/flume-sosp07.pdf), Maxwell Krohn, Alexander Yip, Micah Brodsky, Natan Cliffer, M. Frans Kaashoek, Eddie Kohler, Robert Morris.
 *   [A Decentralized Model for Information Flow Control](http://www.cs.cornell.edu/andru/papers/iflow-sosp97/paper.html), Andrew C. Myers and Barbara Liskov.
 *   [Practical Information Flow for Web Security](http://queue.acm.org/detail.cfm?id=3005356), Jean Yang.
+
+## Statistical Privacy
+*   [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf), Cynthia Dwork and Aaron Roth.
+*   [Distance Makes the Types Grow Stronger](http://www.cis.upenn.edu/~bcpierce/papers/dp.pdf), Jason Reed and Benjamin C. Pierce.
+*   [Differential Privacy Under Fire](https://www.cis.upenn.edu/~ahae/papers/fuzz-sec2011.pdf), Andreas Haeberlen, Benjamin C. Pierce, and Arjun Narayan.
