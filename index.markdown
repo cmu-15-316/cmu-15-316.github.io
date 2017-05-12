@@ -51,7 +51,7 @@ Students will learn the principles behind designing secure systems by constructi
 
 **Lectures**: TuTh 3-4:20pm in WEH 5415.
 
-**Assignments**: There will be 8 assignments. Students will have approximately two weeks to complete each assignment. See the schedule for assignment dates.
+**Assignments**: There will be up to 8 assignments. Students will have approximately two weeks to complete each assignment. See the schedule for assignment dates.
 
 **Exams**: There will be two exams, a midterm and final.
 
