@@ -7,7 +7,7 @@ navname: home
 permalink: /
 ---
 
-# Software Foundations of Security and Privacy
+# Software Foundations of Security and Privacy Spring 2017
 
 ### Course Overview
 
